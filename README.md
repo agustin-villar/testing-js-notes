@@ -1,5 +1,7 @@
 # JS Testing Fundamentals
 
+> What I really like about this course is that it teaches you how the actual testing framework "works" that really makes things more clear of why are you writing what you write when doing tests.
+
 - Creating a custom testing library. During this lesson, I observed the functional programming pattern, the main function returns other functions in order to extend the scope and purpose of the function:
 
     ```
